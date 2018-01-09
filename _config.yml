@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Notes From the Eighth Continent
 email: cbrook@berkeley.edu
+link: https://blog.nationalgeographic.org/author/carabrook/
 
 base-url: /blog
 url: carabrook.github.io
@@ -24,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm a Miller Postdoctoral Fellow at UC Berkeley, chasing bat viruses across Madagascar. 
   Follow me here and at National Geographic Voices.
   
-twitter_username: https://blog.nationalgeographic.org/author/carabrook/
 
 # Build settings
 markdown: kramdown
