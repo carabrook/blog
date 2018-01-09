@@ -22,7 +22,8 @@ github: [metadata]
 
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a Miller Postdoctoral Fellow at UC Berkeley, chasing bat viruses across Madagascar. 
-  Follow me here and at [National Geographic Voices](https://blog.nationalgeographic.org/author/carabrook/).
+  Follow me here and at National Geographic Voices:
+  https://blog.nationalgeographic.org/author/carabrook/
 
 # Build settings
 markdown: kramdown
