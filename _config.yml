@@ -4,6 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 base-url: /blog
 url: carabrook.github.io
+url: https://blog.nationalgeographic.org/author/carabrook/
 github: [metadata]
 
 
