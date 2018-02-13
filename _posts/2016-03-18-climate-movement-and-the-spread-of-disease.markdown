@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climate, Movement, and the Spread
+title: Climate, Movement, and the Spread of Disease
 date: 2016-03-18 00:00:00 +0300
 description: # Add post description (optional)
 img: baobabs_andavadoaka.jpg # Add image post (optional)
