@@ -1,8 +1,8 @@
 {
-    "path" : "~/Documents/R/R_repositories/website/blog",
+    "path" : "~/Documents/R/R_repositories/website/blog/_posts",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 4
         },
         {
