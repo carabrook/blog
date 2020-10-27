@@ -1,0 +1,9 @@
+---
+layout: post
+title: Cara appears on CNN special with Anderson Cooper, 'Bats: The Mystery Behind COVID-19'
+date: 2020-06-14 01:00:00 +0300
+description:  Dr. Cara Brook joins Anderson Cooper and several leading researchers to discuss the role of bats as reservoir hosts for emerging pathogens, including COVID-19# Add post description (optional)
+img: bats-CNN.jpg # Add image post (optional)
+tags: [bats, zoonosis, COVID-19] # add tag
+link: https://news.berkeley.edu/2020/06/12/of-virulent-viruses-and-reservoir-hosts/
+---

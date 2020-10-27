@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cara and colleagues, Tim Treuer and Ricardo Rocha, explain how 'Bats Are Not Our Enemies' in a popular science article with Scientific American
+title: Cara discuses her recent eLife paper on 'The Naked Scientists' podcast
 date: 2020-05-15 01:00:00 +0300
 description:  # Add post description (optional)
-img: pteropus.jpg # Add image post (optional)
-tags: [bats, zoonosis, conservation] # add tag
-link: https://blogs.scientificamerican.com/observations/bats-are-not-our-enemies/
+img: nakedscientists.png # Add image post (optional)
+tags: [bats, zoonosis, COVID-19] # add tag
+link: https://www.thenakedscientists.com/articles/interviews/why-do-bats-carry-deadly-viruses
 ---
