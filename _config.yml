@@ -1,25 +1,25 @@
-title: Brook Lab News
-description: > # this means to ignore newlines until "baseurl:"
-permalink: ':title/'
-base-url: /blog
-url: brooklab.org
-github: [metadata]
+title: Brook Lab
+description: >  Brook Lab at University of Chicago
+#permalink: ':title/'
+#base-url: /blog
+#url: brooklab.org
+#github: [metadata]
 
 
 # Author Settings
-author: Brook Lab # add your name
-author-img: ekipa_fanihy_happy.jpg # add your photo
-about-author: The Brook Lab shares news and views from the field, the lab, and the office!
-github: brooklabteam # add your Github handle
-email: cbrook@berkeley.edu
-url: brooklab.org
-twitter: caraebrook
+#author: Brook Lab # add your name
+#author-img: ekipa_fanihy_happy.jpg # add your photo
+#about-author: The Brook Lab shares news and views from the field, the lab, and the office!
+#github: brooklabteam # add your Github handle
+#email: cbrook@berkeley.edu
+#url: brooklab.org
+#twitter: caraebrook
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
